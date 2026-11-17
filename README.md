@@ -98,3 +98,52 @@ Projeto desenvolvido individualmente como aplicação prática de conhecimentos 
 ---
 
 ⭐ Projeto em desenvolvimento. Este repositório será atualizado conforme novas funcionalidades forem implementadas.
+
+
+---
+
+## 🚀 Acesso à demonstração
+
+O JobMail possui uma interface desenvolvida no AppSheet para demonstrar a organização e o gerenciamento de e-mails.
+
+🔗 **[Acessar o aplicativo JobMail](
+---
+
+## 🚀 Acesso à demonstração
+
+O JobMail possui uma interface desenvolvida no AppSheet para demonstrar a organização e o gerenciamento de e-mails.
+
+🔗 **[Acessar o aplicativo JobMail](
+---
+
+## 🚀 Acesso à demonstração
+
+O JobMail possui uma interface desenvolvida no AppSheet para demonstrar a organização e o gerenciamento de e-mails.
+
+🔗 **[Acessar o aplicativo JobMail](https://www.appsheet.com/start/fa9b6bd3-7fe8-48e4-903c-1b2083fddd5e)**
+
+> Observação: o acesso à demonstração está sujeito às permissões de compartilhamento configuradas no AppSheet.
+
+## 📚 Documentação
+
+- [Requisitos do sistema](docs/requisitos.md)
+- [Funcionalidades](docs/docs/funcionalidades.md)
+- [Roadmap de desenvolvimento](docs/roadmap.md)
+
+> Observação: o acesso à demonstração está sujeito às permissões de compartilhamento configuradas no AppSheet.
+
+## 📚 Documentação
+
+- [Requisitos do sistema](docs/requisitos.md)
+- [Funcionalidades](docs/docs/funcionalidades.md)
+- [Roadmap de desenvolvimento](docs/roadmap.md)
+)**
+
+> Observação: o acesso à demonstração está sujeito às permissões de compartilhamento configuradas no AppSheet.
+
+## 📚 Documentação
+
+- [Requisitos do sistema](docs/requisitos.md)
+- [Funcionalidades](docs/docs/funcionalidades.md)
+- [Roadmap de desenvolvimento](docs/roadmap.md)
+
